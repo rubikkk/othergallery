@@ -16,5 +16,8 @@
     "singleQuote": true,
     "trailingComma": "es5",
     "arrowParens": "always"
+  },
+  "dependencies": {
+    "@browniebroke/gatsby-image-gallery": "^6.0.0"
   }
 }
